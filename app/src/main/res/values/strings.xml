@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Rates</string>
+    <string name="api_key">Your Api Key Here</string>
+</resources>
